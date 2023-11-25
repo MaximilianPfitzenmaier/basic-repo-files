@@ -17,6 +17,7 @@ Easy to use Templates for your GitHub Projects.
     - [The Files](#the-files)
   - [Configuration](#configuration)
     - [How to configure CODE\_OF\_CONDUCT](#how-to-configure-code_of_conduct)
+    - [How to configure LICENSE](#how-to-configure-license)
     - [How to configure README](#how-to-configure-readme)
     - [How to configure SECURITY](#how-to-configure-security)
   - [License](#license)
@@ -39,6 +40,9 @@ Keep in mind that you use this files on your own risk. These files are just some
 
 ### How to configure CODE_OF_CONDUCT
 Change **your_email** to your real email
+
+### How to configure LICENSE
+Change **YOUR_NAME** to your real name
 
 ### How to configure README
 You can use this file as a starting Template or inspiration for you project. 
